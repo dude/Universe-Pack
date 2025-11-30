@@ -1,6 +1,6 @@
 ## Copyright Notice
 
-Copyright © 2025 [Moonvive Entertainment](https://moonvive.com/). All rights reserved.
+Copyright © 2025 [Cure Audio](https://cure.audio/). All rights reserved.
 
 These resource packs contain original content created by Moonvive Entertainment. Any use, reproduction, distribution, or modification of the files listed inside the accompanying `COPYRIGHTS.txt` files without the express prior written permission of Moonvive Entertainment is strictly prohibited. Unauthorized actions may result in legal action.
 
